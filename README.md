@@ -1,7 +1,7 @@
-<h1>Catat Duit </h1>  
+<h1>Pantau Duit </h1>  
 <h3>UAS Pemrograman Mobile 2 – Kelompok 2</h3>
 <br>
-<p>Catat Duit adalah aplikasi mobile berbasis <b>Flutter</b> yang digunakan untuk mencatat dan mengelola keuangan pengguna, seperti pemasukan dan pengeluaran, sehingga pengguna dapat memantau kondisi keuangannya dengan lebih teratur dan efisien<br>
+<p>Pantau Duit adalah aplikasi mobile berbasis <b>Flutter</b> yang digunakan untuk mencatat dan mengelola keuangan pengguna, seperti pemasukan dan pengeluaran, sehingga pengguna dapat memantau kondisi keuangannya dengan lebih teratur dan efisien<br>
 Aplikasi ini juga memiliki fitur pencatatan tagihan, dengan fitur ini user dapat mengingat tagihan yang harus di bayar.<br>
 Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna menggunakan Firebase auth dan juga disertai dengan Firebase Google Auth</p>
 <h3>Aplikasi ini dikembangkan oleh Kelompok 2:</h3>
@@ -137,6 +137,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
     <td align="center"><b>Info Pengembang</b></td>
   </tr>
 </table>
+
 
 
 
