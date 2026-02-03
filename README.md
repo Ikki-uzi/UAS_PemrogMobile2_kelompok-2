@@ -4,7 +4,6 @@
 <p>Catat Duit adalah aplikasi mobile berbasis <b>Flutter</b> yang digunakan untuk mencatat dan mengelola keuangan pengguna, seperti pemasukan dan pengeluaran, sehingga pengguna dapat memantau kondisi keuangannya dengan lebih teratur dan efisien<br>
 Aplikasi ini juga memiliki fitur pencatatan tagihan, dengan fitur ini user dapat mengingat tagihan yang harus di bayar.<br>
 Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna menggunakan Firebase auth dan juga disertai dengan Firebase Google Auth</p>
-<h3>Aplikasi sudah disimpan di <b>Release</b></h3>
 <h3>Aplikasi ini dikembangkan oleh Kelompok 2:</h3>
 <ul>
   <li>Annisa Nur Fitriani (23552011192)</li>
@@ -13,14 +12,12 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
   <li>Muhammad Nizham H. (23552011241)</li>
   <li>Rizky Fauzi (23552011070)</li>
 </ul>
-<br>
 <h3>Video Demo</h3>
 <p>
   <a href="https://drive.google.com/file/d/1UAILsnehjv-bFrT5uAzz9EfeRI6JRmZG/view?usp=sharing">
     <img src="https://img.shields.io/badge/▶-Tonton_Video_Demo-blue?style=for-the-badge&logo=googledrive" alt="Video Demo">
   </a>
 </p>
-<br>
 <h3>Download APK</h3>
 <p>
   <a href="https://github.com/Ikki-uzi/UAS_PemrogMobile2_kelompok-2/releases/download/v1.0">
@@ -140,6 +137,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
     <td align="center"><b>Info Pengembang</b></td>
   </tr>
 </table>
+
 
 
 
