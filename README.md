@@ -20,7 +20,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 </p>
 <h3>Download APK</h3>
 <p>
-  <a href="https://github.com/Ikki-uzi/UAS_PemrogMobile2_kelompok-2/releases/download/v1.0">
+  <a href="https://github.com/Ikki-uzi/UAS_PemrogMobile2_kelompok-2/releases/tag/v1.0">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
@@ -137,6 +137,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
     <td align="center"><b>Info Pengembang</b></td>
   </tr>
 </table>
+
 
 
 
