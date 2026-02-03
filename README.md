@@ -4,8 +4,7 @@
 <p>Catat Duit adalah aplikasi mobile berbasis <b>Flutter</b> yang digunakan untuk mencatat dan mengelola keuangan pengguna, seperti pemasukan dan pengeluaran, sehingga pengguna dapat memantau kondisi keuangannya dengan lebih teratur dan efisien<br>
 Aplikasi ini juga memiliki fitur pencatatan tagihan, dengan fitur ini user dapat mengingat tagihan yang harus di bayar.<br>
 Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna menggunakan Firebase auth dan juga disertai dengan Firebase Google Auth</p>
-<br>
-<h4>Aplikasi sudah disimpan di <b>Release</b></h4>
+<h3>Aplikasi sudah disimpan di <b>Release</b></h3>
 <h3>Aplikasi ini dikembangkan oleh Kelompok 2:</h3>
 <ul>
   <li>Annisa Nur Fitriani (23552011192)</li>
@@ -17,11 +16,17 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 <br>
 <h3>Video Demo</h3>
 <p>
-  <a href="https://drive.google.com/file/d/177X6LQdSdFy5IqIhvtjrQ3FVMjsFyO2W/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶-Tonton_Video_Demo-red?style=for-the-badge&logo=googledrive" alt="Video Demo">
+  <a href="https://drive.google.com/file/d/1UAILsnehjv-bFrT5uAzz9EfeRI6JRmZG/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶-Tonton_Video_Demo-blue?style=for-the-badge&logo=googledrive" alt="Video Demo">
   </a>
 </p>
 <br>
+<h3>Download APK</h3>
+<p>
+  <a href="https://github.com/Ikki-uzi/UAS_PemrogMobile2_kelompok-2/releases/download/v1.0">
+    <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
 <h2>Getting Started</h2>
 <h3>Fitur Aplikasi</h3>
 - Menambahkan data pemasukan<br>
@@ -43,7 +48,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 <br>
 <h3>Setting Firebase</h3>
 <p>Aplikasi ini sudah memakai firebase untuk databasenya dan untuk penyimpanan data user sudah memakai Firebase auth dan Google Auth</p>
-<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/6c996224-c215-403f-bad4-d90c8f78fd9d" /> <img width="1294" height="678" alt="image" src="https://github.com/user-attachments/assets/1b86436b-cfa8-4036-bdf4-6de736d65019" />
+<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/6c996224-c215-403f-bad4-d90c8f78fd9d" /><br> <img width="1294" height="678" alt="image" src="https://github.com/user-attachments/assets/1b86436b-cfa8-4036-bdf4-6de736d65019" />
 <br>
 <h2>Screenshoot Aplikasi</h2>
 <h3>1. Splash Screen</h3>
@@ -135,5 +140,6 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
     <td align="center"><b>Info Pengembang</b></td>
   </tr>
 </table>
+
 
 
