@@ -8,7 +8,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 <ul>
   <li>Annisa Nur Fitriani (23552011192)</li>
   <li>Cindy Marcelina (23552011031)</li>
-  <li>Muhammad Rafi Fadillah (23552011066)</li>
+  <li>Mochammad Raffi Fadhillah (23552011066)</li>
   <li>Muhammad Nizham H. (23552011241)</li>
   <li>Rizky Fauzi (23552011070)</li>
 </ul>
@@ -137,6 +137,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
     <td align="center"><b>Info Pengembang</b></td>
   </tr>
 </table>
+
 
 
 
