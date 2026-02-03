@@ -5,7 +5,7 @@
 Aplikasi ini juga memiliki fitur pencatatan tagihan, dengan fitur ini user dapat mengingat tagihan yang harus di bayar.<br>
 Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna menggunakan Firebase auth dan juga disertai dengan Firebase Google Auth</p>
 <br>
-<li>Aplikasi sudah disimpan di <b>Release</b></li>
+<h4>Aplikasi sudah disimpan di <b>Release</b></h4>
 <h3>Aplikasi ini dikembangkan oleh Kelompok 2:</h3>
 <ul>
   <li>Annisa Nur Fitriani (23552011192)</li>
@@ -16,7 +16,11 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 </ul>
 <br>
 <h3>Video Demo</h3>
-
+<p>
+  <a href="https://drive.google.com/file/d/177X6LQdSdFy5IqIhvtjrQ3FVMjsFyO2W/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶-Tonton_Video_Demo-red?style=for-the-badge&logo=googledrive" alt="Video Demo">
+  </a>
+</p>
 <br>
 <h2>Getting Started</h2>
 <h3>Fitur Aplikasi</h3>
@@ -76,7 +80,7 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 <table>
   <tr>
     <td align="center"><img src="Screenshoot/Detail.jpeg" alt="Login" width="300"></td>
-    <td align="center"><img src="Screenshoot/DetailTransaksi.jpeg" alt="Register" width="300"></td>
+    <td align="center"><img src="Screenshoot/DetailTagihan.jpeg" alt="Register" width="300"></td>
   </tr>
   <tr>
     <td align="center"><b>Detail Transaksi</b></td>
@@ -124,11 +128,12 @@ Database aplikasi ini menggunakan Firebase dan untuk menyimpan data pengguna men
 <table>
   <tr>
     <td align="center"><img src="Screenshoot/About.jpeg" alt="Login" width="300"></td>
-    <td align="center"><img src="Screenshoot/About Pengembang.jpeg" alt="Register" width="300"></td>
+    <td align="center"><img src="Screenshoot/AboutPengembang.jpeg" alt="Register" width="300"></td>
   </tr>
   <tr>
     <td align="center"><b>Top About</b></td>
     <td align="center"><b>Info Pengembang</b></td>
   </tr>
 </table>
+
 
